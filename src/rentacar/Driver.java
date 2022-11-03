@@ -21,7 +21,7 @@ import java.io.IOException;
 
 // INCLUDE HERE THE FULL NAME AND STUDENT NUMBER OF BOTH TEAM MEMBERS 
 // AS A COMMENT!!!!
-//2021297 Yuna Jang
+//2021297 Yuna Jang homework
 
 
 /**
